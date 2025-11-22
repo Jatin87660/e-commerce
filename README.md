@@ -1,6 +1,6 @@
 # E-Commerce Website
 ## Description
-This is a Node.js API for managing users, items, carts, and orders. It allows users to register, login, create items, add items to carts, and convert carts to orders.
+This is a e-commerce website for managing users, items, carts, and orders. It allows users to register, login, create items, add items to carts, and convert carts to orders.
 
 ## API Endpoints
 
